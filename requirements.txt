@@ -1,7 +1,0 @@
-discord.py==0.16.12
-request.py==0.16.12
-cheerio.py==0.16.12
-fs.py==0.16.12
-config.py==0.16.12
-whogi.py==0.16.12
-client.py==0.16.12
